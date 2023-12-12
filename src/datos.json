@@ -1,0 +1,13 @@
+{
+  "credenciales": {
+    "usuario": "openbootcamp",
+    "clave": "EstoEs1clave",
+
+    "videos": [
+      "//JavaScript Object Notation Json",
+      "primera sesion",
+      "segunda sesion",
+      "tercera sesion"
+    ]
+  }
+}
